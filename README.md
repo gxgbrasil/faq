@@ -47,6 +47,8 @@ gdg-leads-br@googlegroups.com
 
 # Outras informações úteis
 
+O GDG Wisdom tem um [e-book](https://gdg-wisdom.gitbooks.io/gdg-wisdom-2015/content/) com várias informações úteis sobre como organizar eventos, quais tipos de atividades, projetos e outros.
+
 ## Ferramentas
 
 - Organização de tarefas: Trello, Asana
